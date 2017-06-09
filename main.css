@@ -10,16 +10,15 @@ body
   background-color: blue;
 }
 
-<<<<<<< HEAD
 .messageTwo {
   height: 5em;
   width: 10em;
   background-color: red;
-=======
+}
+
 .messageThree
 {
   height: 5em;
   width: 10em;
   background-color: white;
->>>>>>> f12faee973910f896cdc7656ca4f6b34775c31da
 }
